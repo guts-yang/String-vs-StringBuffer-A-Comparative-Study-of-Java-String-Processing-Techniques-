@@ -25,18 +25,21 @@
 - 设置字符 (setCharAt)
 - 查找索引 (indexOf)
 - 获取长度 (length)
+<img width="1106" height="828" alt="image" src="https://github.com/user-attachments/assets/29a9662f-0288-4675-b421-18ffc0942352" />
 
 ### 3. 性能对比功能
 - 字符串拼接性能测试
 - 字符串替换性能测试
 - 可调整的测试参数（操作次数）
 - 直观的时间对比结果展示
+<img width="1106" height="828" alt="image" src="https://github.com/user-attachments/assets/b2aa3220-81c1-42b7-9a21-3d1197e97fbe" />
 
 ### 4. 教育资源
 - 详细的特性说明和区别解释
 - 使用场景建议
 - 常见错误提示
 - 最佳实践指南
+<img width="1106" height="828" alt="image" src="https://github.com/user-attachments/assets/6aea4e64-ae53-46aa-a860-92105d4cfaa6" />
 
 ## 项目结构
 
